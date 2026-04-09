@@ -49,7 +49,7 @@ Since you requested the full code, including dependencies and the `.exe`, to be 
 ### Method 1: Running the Pre-compiled Application (Easiest)
 
 1.  Clone this repository to your local machine:
-    ```bash
+    ```bash https://github.com/pujakumari73567-ops/upskillcampus.git
    https://github.com/pujakumari73567-ops/upskillcampus.git
     ```
 2.  Navigate into the `dist` directory:
