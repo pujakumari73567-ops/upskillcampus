@@ -50,7 +50,7 @@ Since you requested the full code, including dependencies and the `.exe`, to be 
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/YourUsername/Upskill-Smart-File-Organizer.git](https://github.com/YourUsername/Upskill-Smart-File-Organizer.git)
+   https://github.com/pujakumari73567-ops/upskillcampus.git
     ```
 2.  Navigate into the `dist` directory:
     ```text
